@@ -13,4 +13,6 @@ add_executable(sorting_algorithms
         1-main.c
         1-insertion_sort_list.c
         2-main.c
-        2-selection_sort.c)
+        2-selection_sort.c
+        3-main.c
+        3-quick_sort.c)
